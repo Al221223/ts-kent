@@ -1,0 +1,38 @@
+newmtl Yxxml1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+newmtl Yxxml3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Yxxml3Tex.png
+map_Kd Yxxml3Tex.png
+map_d Yxxml3Tex.png
+
+newmtl Yxxml8Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Yxxml8Tex.png
+map_Kd Yxxml8Tex.png
+map_d Yxxml8Tex.png
+
